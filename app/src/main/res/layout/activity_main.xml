@@ -44,7 +44,7 @@
 
             <EditText
                 android:id="@+id/edtDolares"
-                android:layout_width="wrap_content"
+                android:layout_width="@dimen/number_size"
                 android:layout_height="wrap_content"
                 android:inputType="numberDecimal"
                 android:textColor="@color/colorRed"
