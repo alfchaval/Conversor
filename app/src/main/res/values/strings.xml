@@ -5,4 +5,5 @@
     <string name="dolares">Dólares:</string>
     <string name="dolares_a_euros">Dólares a Euros</string>
     <string name="euros_a_dolares">Euros a Dólares</string>
+    <string name="cambio_dolares_a_euros">Cambio Dólares a Euros</string>
 </resources>
